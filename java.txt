@@ -1,0 +1,18 @@
+ 
+	
+	/*public int randomquestion(){
+		int i=(int)(Math.random()*questions.length);
+		return i;
+		
+	}*/
+
+
+
+
+
+
+
+
+    	   /* options=new int[][]{
+    	    		1,2,3,4, 1,2,3,4, 1,2,3,4, 1,2,3,4}
+    	    }*/

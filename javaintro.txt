@@ -1,0 +1,3 @@
+why java*
+wora(write once run anywhere)
+platform is os + hardware
